@@ -10,7 +10,7 @@ import Contact from './Components/Contact/Contact'
 export default (
     <Switch>
 
-        <Route exact path = '/' component={Home}/>
+        <Route exact path = '/CA-Assessment' component={Home}/>
         <Route path = '/Work' component={Work}/>
         <Route path = '/About' component={About}/>
         <Route path = '/Contact' component={Contact}/>

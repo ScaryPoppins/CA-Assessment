@@ -34,7 +34,7 @@ render(){
    <img id = 'asses-over700' alt = 'webAssess' src={WebsiteAssesmentwords}/> 
 
     <div className = 'button-container-over700'> 
-      <Link to="/">
+      <Link to="/CA-Assessment">
               <button className='navButton'>Home</button>
       </Link>
       <Link to="/Work">
