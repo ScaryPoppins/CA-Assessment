@@ -1,0 +1,56 @@
+.footerBigMain{
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+}
+.footerContainer{
+    width: 90vw;
+    background-color: #7D7D7D;
+    border: 1.8px solid #3195B4;
+    display: flex;
+}
+
+.footMiddle{
+    display: flex;
+    flex-direction: column;
+    width: 40vw;
+    justify-content: center;
+    align-items: center;
+    margin-left: 25vw
+}
+
+.footRests{
+    display: flex;
+    font-size: .7rem;
+    justify-content: space-around;
+    width: 35vw;
+}
+
+.footLinks{
+    display: flex; 
+    justify-content: space-around;
+    width: 20vw;
+}
+
+.footPicture{
+    max-height: 2.5vh;
+}
+
+.privateFoot{
+    font-size: .7rem;
+}
+
+.footP{
+    color: lightgray;
+    font-size: .6rem;
+}
+
+#footNumb{
+    font-size: 1rem;
+    font-weight: 500;
+    color: white;
+}
+.footNumbers{
+width: 20vw;
+margin-top: .5vh;
+}

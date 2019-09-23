@@ -34,7 +34,7 @@ render(){
    <img id = 'asses-over700' alt = 'webAssess' src={WebsiteAssesmentwords}/> 
 
     <div className = 'button-container-over700'> 
-      <Link to="/CA-Assessment">
+      <Link to="/">
               <button className='navButton'>Home</button>
       </Link>
       <Link to="/Work">
@@ -73,15 +73,15 @@ render(){
             <button className='navButton' id= 'under700-text'>Home</button>
     </Link>
 
-    <Link to="/services">
+    <Link to="/Work">
             <button className='navButton' id= 'under700-text'>Work</button>
     </Link>
 
-    <Link to="/shop">
+    <Link to="/About">
             <button className='navButton' id= 'under700-text'>About</button>
     </Link>
 
-    <Link to="/about">
+    <Link to="/Contact">
             <button className='navButton' id= 'under700-text'>Contact</button>
     </Link>
   </div>

@@ -1,0 +1,56 @@
+.divider{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.homeMainPage{
+    margin: 5vw;
+}
+#homeMain{
+    width: 70vw;
+}
+.homeText{
+    color:#3195B4;
+    font-weight: 700;
+    display: flex;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
+
+.homeBox{
+    /* display: flex; */
+    width: 37vw;
+}
+.ptext{
+   font-size: .6rem;
+   display: flex; 
+   text-align: left;
+   flex-direction: column;
+}
+
+.homeContactUs{
+    display: flex;
+    justify-content: space-around;
+    text-align: left;
+    font-size: .6rem;
+}
+
+.blogSection{
+    display: flex;
+    flex-direction: column;
+    margin-left: 2vw;
+}
+.blogHeadText{
+    margin-left: 2vw;
+}
+.blogPicture{
+    max-width: 65%;
+
+}
+.blogText{
+    font-size: .9rem;
+    font-weight: 600;
+    text-align: left;
+
+}
